@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/muicss/loadjs) 
+
 # LoadJS
 
 <img src="https://www.muicss.com/static/images/loadjs.svg" width="250px">
